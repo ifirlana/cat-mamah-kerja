@@ -1,10 +1,10 @@
-import { CatMamahKerjaPage } from './app.po';
+import { CatAppPage } from './app.po';
 
-describe('cat-mamah-kerja App', function() {
-  let page: CatMamahKerjaPage;
+describe('cat-app App', function() {
+  let page: CatAppPage;
 
   beforeEach(() => {
-    page = new CatMamahKerjaPage();
+    page = new CatAppPage();
   });
 
   it('should display message saying app works', () => {

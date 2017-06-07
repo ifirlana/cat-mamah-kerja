@@ -1,6 +1,6 @@
 import { browser, element, by } from 'protractor';
 
-export class CatMamahKerjaPage {
+export class CatAppPage {
   navigateTo() {
     return browser.get('/');
   }

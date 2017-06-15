@@ -5,8 +5,8 @@
 /tmp
 
 # dependencies
-bower_components
-node_modules
+my/bower_components
+my/node_modules
 
 # IDEs and editors
 .idea
